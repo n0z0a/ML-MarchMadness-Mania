@@ -11,7 +11,7 @@ The primary goal of this project is to develop machine learning models and predi
 ## Creator
 
 - **Noah Ibarra**
-- 
+
 ## Acknowledgments
 
 My sincere gratitude to the following:
