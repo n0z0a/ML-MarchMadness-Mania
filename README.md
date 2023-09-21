@@ -26,4 +26,4 @@ My sincere gratitude to the following:
   - [Link to Helpful Kaggle File 2](https://www.kaggle.com/example2)
   - [Link to Helpful Kaggle File 3](https://www.kaggle.com/example3)
 
-This project marks the beginning of our journey into computer science, inspired by the incredible possibilities showcased in the Kaggle community. I'm delighted to have had the opportunity to participate in this competition and explore the fascinating world of data science and machine learning. 
+This project marks the beginning of my journey into computer science, inspired by the incredible possibilities showcased in the Kaggle community. I'm delighted to have had the opportunity to participate in this competition and explore the fascinating world of data science and machine learning. 
