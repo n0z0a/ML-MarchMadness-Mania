@@ -16,9 +16,7 @@ The primary goal of this project is to develop machine learning models and predi
 
 My sincere gratitude to the following:
 
-- **Kaggle:** I thank Kaggle for hosting the "March Machine Learning Mania" competition and providing the datasets essential for this project.
-
-- **Kaggle Community:** Special thanks to [mention specific Kaggle users or groups if applicable] for their contributions, code sharing, and support. Their openness to sharing knowledge has been invaluable to our learning journey.
+- **Kaggle:** Special thanks to Kaggle and the Kaggle Community for hosting the "March Machine Learning Mania" competition and providing the datasets essential for this project. Their openness to sharing knowledge has been invaluable to my learning journey.
 
 This project marks the beginning of my journey into computer science, inspired by the incredible possibilities showcased in the Kaggle community. I'm delighted to have had the opportunity to participate in this competition and explore the fascinating world of data science and machine learning.
 
